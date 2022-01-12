@@ -2,7 +2,7 @@
 
 This keylogger is powerful and runs in background without any knowledge of the user
 
-To eun the executable file:
+To run the executable file:
 
 Disable the firewall
 
